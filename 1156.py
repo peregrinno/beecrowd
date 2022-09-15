@@ -6,5 +6,3 @@ for n in range(3, 39, 2):
     d *= 2
     
 print("{:.2f}".format(s))
-
- 
